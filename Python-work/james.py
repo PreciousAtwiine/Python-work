@@ -1,6 +1,6 @@
 """
 WRITING TO A FILE USING PYTHON
-/////////////////////////////////////////////////////////////////
+
 
 Writing, Appending, and Reading a File
 
@@ -213,6 +213,6 @@ def add_task(task):
 # Example Usage
 add_task("Finish Python project")
 add_task("Prepare for the meeting at 3 PM")
-/////////////////////////////////////////////////////////////////
+
 
 """
